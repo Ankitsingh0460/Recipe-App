@@ -6,7 +6,7 @@ export const NavigationBar = () => {
       <div className="max-w-7xl mx-auto">
         <Link to={"/"}>
           <h1 className="text-3xl font-bold text-white">
-            RECIPE<span className="text-[#A34343]">RAVE</span>
+            DELICIOUS<span className="text-[#A34343]">Food</span>
           </h1>
         </Link>
       </div>

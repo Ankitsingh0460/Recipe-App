@@ -74,12 +74,13 @@ export const RecipeCards = () => {
             summary={recipe.summary}
           />
         ))}
-      <p
-        className="underline cursor-pointer hover:text-blue-500"
+
+      <h2
+        className="lode underline cursor-pointer hover:text-blue-500 "
         onClick={LoadNewRecipes}
       >
         Load new
-      </p>
+      </h2>
     </div>
   );
 };
