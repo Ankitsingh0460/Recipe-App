@@ -4,6 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+* {
+  background-color: cadetblue;
+}
 
 .logo {
   height: 6em;
